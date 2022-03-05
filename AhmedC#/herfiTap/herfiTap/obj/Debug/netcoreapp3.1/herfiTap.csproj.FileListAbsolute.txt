@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\bin\Debug\netcoreapp3.1\herfiTap.exe
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\bin\Debug\netcoreapp3.1\herfiTap.deps.json
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\bin\Debug\netcoreapp3.1\herfiTap.runtimeconfig.json
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\bin\Debug\netcoreapp3.1\herfiTap.runtimeconfig.dev.json
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\bin\Debug\netcoreapp3.1\herfiTap.dll
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\bin\Debug\netcoreapp3.1\herfiTap.pdb
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\obj\Debug\netcoreapp3.1\herfiTap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\obj\Debug\netcoreapp3.1\herfiTap.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\obj\Debug\netcoreapp3.1\herfiTap.AssemblyInfo.cs
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\obj\Debug\netcoreapp3.1\herfiTap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\obj\Debug\netcoreapp3.1\herfiTap.dll
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\obj\Debug\netcoreapp3.1\herfiTap.pdb
+C:\Users\User\Desktop\AhmedC#\herfiTap\herfiTap\obj\Debug\netcoreapp3.1\herfiTap.genruntimeconfig.cache

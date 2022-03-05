@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\bin\Debug\netcoreapp3.1\mertebesayi.exe
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\bin\Debug\netcoreapp3.1\mertebesayi.deps.json
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\bin\Debug\netcoreapp3.1\mertebesayi.runtimeconfig.json
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\bin\Debug\netcoreapp3.1\mertebesayi.runtimeconfig.dev.json
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\bin\Debug\netcoreapp3.1\mertebesayi.dll
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\bin\Debug\netcoreapp3.1\mertebesayi.pdb
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\obj\Debug\netcoreapp3.1\mertebesayi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\obj\Debug\netcoreapp3.1\mertebesayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\obj\Debug\netcoreapp3.1\mertebesayi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\obj\Debug\netcoreapp3.1\mertebesayi.AssemblyInfo.cs
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\obj\Debug\netcoreapp3.1\mertebesayi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\obj\Debug\netcoreapp3.1\mertebesayi.dll
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\obj\Debug\netcoreapp3.1\mertebesayi.pdb
+C:\Users\User\Desktop\AhmedC#\mertebesayi\mertebesayi\obj\Debug\netcoreapp3.1\mertebesayi.genruntimeconfig.cache

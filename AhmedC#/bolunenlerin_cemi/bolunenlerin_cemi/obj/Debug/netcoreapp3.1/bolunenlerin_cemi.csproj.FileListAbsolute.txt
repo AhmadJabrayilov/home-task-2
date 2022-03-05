@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\bin\Debug\netcoreapp3.1\bolunenlerin_cemi.exe
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\bin\Debug\netcoreapp3.1\bolunenlerin_cemi.deps.json
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\bin\Debug\netcoreapp3.1\bolunenlerin_cemi.runtimeconfig.json
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\bin\Debug\netcoreapp3.1\bolunenlerin_cemi.runtimeconfig.dev.json
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\bin\Debug\netcoreapp3.1\bolunenlerin_cemi.dll
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\bin\Debug\netcoreapp3.1\bolunenlerin_cemi.pdb
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\obj\Debug\netcoreapp3.1\bolunenlerin_cemi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\obj\Debug\netcoreapp3.1\bolunenlerin_cemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\obj\Debug\netcoreapp3.1\bolunenlerin_cemi.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\obj\Debug\netcoreapp3.1\bolunenlerin_cemi.AssemblyInfo.cs
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\obj\Debug\netcoreapp3.1\bolunenlerin_cemi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\obj\Debug\netcoreapp3.1\bolunenlerin_cemi.dll
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\obj\Debug\netcoreapp3.1\bolunenlerin_cemi.pdb
+C:\Users\User\Desktop\AhmedC#\bolunenlerin_cemi\bolunenlerin_cemi\obj\Debug\netcoreapp3.1\bolunenlerin_cemi.genruntimeconfig.cache
